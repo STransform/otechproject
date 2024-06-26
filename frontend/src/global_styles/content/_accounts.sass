@@ -29,28 +29,51 @@
 #login-form
   margin: 50px auto 0
   padding: 20px
-  width: 511px
+  width: 611px
   word-break: break-word
+  background-color:#fff  //added
+  color:#000              //added
+  text-align: center      //added
+  
+  
+  
+
+  #login-form  //added
+  .form--field  //added
+    .form--label  //added
+      color: black  //added
+
+  #login-form  //added to make the logo account and forgot your password color white
+  .login-form--footer //added to make the logo account and forgot your password color white
+    .login-links     //added to make the logo account and forgot your password color white
+      .login-form--footer-link // added to make the logo account and forgot your password color white
+        color: black   //added to make the logo account and forgot your password color white
 
   .login-form--footer
-    display: flex
+    display: inline-block
     justify-content: space-between
-    margin-bottom: 10px
+    margin-bottom: 40px
 
+    
+
+
+    
 #content .login-auth-providers.wide
   width: auto
   text-align: center
-
+  
+   
   a.auth-provider
     float: none
     display: inline-block
 
+
 #nav-login-content
   padding: 1rem
-
+  color:#fff
   .form--text-field
     min-width: 170px
-
+    
 #login-pulldown
   margin-right: 0
 
@@ -59,6 +82,7 @@
 #nav-login-content .login-auth-providers
   width: 471px
   margin-top: 25px
+  
 
   h3
     font-weight: normal
@@ -66,7 +90,7 @@
     text-align: center
     position: relative
     z-index: 1
-
+     
     // line behind title
     // from http://codepen.io/ericrasch/pen/Irlpm
 
@@ -83,6 +107,7 @@
       right: 0
       width: 95%
       z-index: -1
+     
 
     // also line behind title
     span
@@ -90,7 +115,8 @@
       // background color the same as the container
       background: var(--content-form-bg-color)
       padding: 0 0.5rem
-
+      
+      
   .login-auth-provider-list
     @include prevent-float-collapse
     margin-top: 1em
@@ -105,7 +131,7 @@
   .login-auth-provider-list
     margin-top: 1em
     margin-bottom: 10px
-
+    
 #nav-login-content .login-auth-providers.no-pwd
   margin-top: 0
 

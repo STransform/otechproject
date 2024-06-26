@@ -68,7 +68,7 @@ RSpec.describe "Team planner overview",
 
   it "renders a global menu with its item selected" do
     within "#main-menu" do
-      expect(page).to have_css ".selected", text: "Team planners"
+      expect(page).to have_css ".selected", text: "OTECH Designer"
     end
   end
 

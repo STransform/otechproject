@@ -62,7 +62,7 @@ const globalCapability:ICapability = {
     },
     principal: {
       href: '/api/v3/users/1',
-      title: 'OpenProject Admin',
+      title: 'OTECHProject Admin',
     },
   },
 };
@@ -82,7 +82,7 @@ const projectCapabilityp63Update:ICapability = {
     },
     principal: {
       href: '/api/v3/users/1',
-      title: 'OpenProject Admin',
+      title: 'OTECHProject Admin',
     },
   },
 };
@@ -102,7 +102,7 @@ const projectCapabilityp63Read:ICapability = {
     },
     principal: {
       href: '/api/v3/users/1',
-      title: 'OpenProject Admin',
+      title: 'OTECHProject Admin',
     },
   },
 };
@@ -122,7 +122,7 @@ const projectCapabilityp53Update:ICapability = {
     },
     principal: {
       href: '/api/v3/users/1',
-      title: 'OpenProject Admin',
+      title: 'OTECHProject Admin',
     },
   },
 };

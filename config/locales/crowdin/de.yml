@@ -1625,7 +1625,7 @@ de:
       no_visible_projects: "Es gibt keine sichtbaren Projekte in dieser OpenProject-Umgebung."
       users: "Neueste registrierte Benutzer in dieser Instanz."
     blocks:
-      community: "OpenProject Community"
+      community: "OTECH Engineering customer"
       upsale:
         title: "Auf Enterprise edition upgraden"
         more_info: "Weitere Informationen"

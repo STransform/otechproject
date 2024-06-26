@@ -901,7 +901,7 @@ module Settings
       },
       seed_admin_user_name: {
         description: "Name to set for the initially created admin user.",
-        default: "OpenProject Admin",
+        default: "OTECHProject Admin",
         writable: false
       },
       seed_admin_user_password_reset: {
@@ -945,7 +945,7 @@ module Settings
         default: 120
       },
       show_community_links: {
-        description: "Enable or disable links to OpenProject community instances",
+        description: "Enable or disable links to OPENPROJECT COMMUNITY instances",
         default: true
       },
       show_product_version: {

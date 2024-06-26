@@ -107,7 +107,7 @@ ko:
             item_2:
               name: 작업
             item_3:
-              name: 팀 플래너
+             # name: 팀 플래너
           boards:
             bcf:
               name: 간단한 드래그 앤 드롭 워크플로
@@ -169,7 +169,7 @@ ko:
             item_2:
               name: 작업
             item_3:
-              name: 팀 플래너
+              #name: 팀 플래너
           project-overview:
             widgets:
               item_0:
@@ -423,7 +423,7 @@ ko:
             item_2:
               name: 작업
             item_3:
-              name: 팀 플래너
+             # name: 팀 플래너
           project-overview:
             widgets:
               item_0:
@@ -696,7 +696,7 @@ ko:
             item_6:
               name: 작업
             item_7:
-              name: 팀 플래너
+             # name: 팀 플래너
           boards:
             bcf:
               name: BCF 이슈

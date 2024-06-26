@@ -61,7 +61,7 @@ el:
         main-menu-bg-color: "Χρώμα φόντου του μενού της αριστερής πλευράς."
       theme_warning: Η αλλαγή του θέματος θα αντικαταστήσει το προσαρμοσμένο στυλ. Ο σχεδιασμός θα χαθεί. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"

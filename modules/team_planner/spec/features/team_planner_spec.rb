@@ -39,7 +39,7 @@ RSpec.describe "Team planner",
     visit project_path(project)
 
     within "#main-menu" do
-      click_link "Team planners"
+      click_link "OTECH Designer"
     end
 
     expect(page).to have_content "There is currently nothing to display."

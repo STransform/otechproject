@@ -54,7 +54,7 @@ RSpec.describe "Team planner Menu Item", :js, :with_cuprite do
       visit root_path
 
       within "#main-menu" do
-        click_link "Team planners"
+        click_link "OTECH Designer"
       end
     end
 
@@ -74,7 +74,7 @@ RSpec.describe "Team planner Menu Item", :js, :with_cuprite do
           visit project_path(project)
 
           within "#main-menu" do
-            click_link "Team planners"
+            click_link "OTECH Designer"
           end
 
           expect(page).not_to have_test_selector("team-planner--create-button")
@@ -86,7 +86,7 @@ RSpec.describe "Team planner Menu Item", :js, :with_cuprite do
           visit project_path(project)
 
           within "#main-menu" do
-            click_link "Team planners"
+            click_link "OTECH Designer"
           end
 
           expect(page).not_to have_test_selector("team-planner--create-button")
@@ -102,7 +102,7 @@ RSpec.describe "Team planner Menu Item", :js, :with_cuprite do
           visit project_path(project)
 
           within "#main-menu" do
-            click_link "Team planners"
+            click_link "OTECH Designer"
           end
 
           expect(page).not_to have_test_selector("team-planner--create-button")
@@ -114,7 +114,7 @@ RSpec.describe "Team planner Menu Item", :js, :with_cuprite do
           visit project_path(project)
 
           within "#main-menu" do
-            click_link "Team planners"
+            click_link "OTECH Designer"
           end
 
           expect(page).to have_test_selector("team-planner--create-button")

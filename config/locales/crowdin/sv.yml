@@ -61,7 +61,7 @@ sv:
         main-menu-bg-color: "Bakgrundsfärg på den vänstra sidomenyn."
       theme_warning: Ändra temat kommer att skriva över din egen stil. Designen kommer då att gå förlorad. Är du säker på att du vill fortsätta?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -1629,12 +1629,12 @@ sv:
       no_visible_projects: "Det finns inga synliga projekt i denna instans."
       users: "De senast registrerade användarna just nu."
     blocks:
-      community: "OpenProject community"
+      community: "OTECH Engineering customer"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "Mer information"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Migrera din installation till PostgreSQL"
       user_guides: "Användarguider"
       faq: "Vanliga frågor (FAQ)"

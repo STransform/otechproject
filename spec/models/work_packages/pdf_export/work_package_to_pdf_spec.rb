@@ -68,7 +68,7 @@ RSpec.describe WorkPackage::PDFExport::WorkPackageToPdf do
   let(:work_package) do
     description = <<~DESCRIPTION
       **Lorem** _ipsum_ ~~dolor~~ `sit` [amet](https://example.com/), consetetur sadipscing elitr.
-      <mention data-text="@OpenProject Admin">@OpenProject Admin</mention>
+      <mention data-text="@OTECHProject Admin">@OTECHProject Admin</mention>
       ![](/api/v3/attachments/#{image_attachment.id}/content)
       <p class="op-uc-p">
         <figure class="op-uc-figure">
@@ -140,7 +140,7 @@ RSpec.describe WorkPackage::PDFExport::WorkPackageToPdf do
         *details,
         label_title(:description),
         "Lorem", " ", "ipsum", " ", "dolor", " ", "sit", " ",
-        "amet", ", consetetur sadipscing elitr.", " ", "@OpenProject Admin",
+        "amet", ", consetetur sadipscing elitr.", " ", "@OTECHProject Admin",
         "Image Caption",
         "Foo",
         "LongText", "foo",

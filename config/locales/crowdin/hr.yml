@@ -61,7 +61,7 @@ hr:
         main-menu-bg-color: "Left side menu's background color."
       theme_warning: Changing the theme will overwrite you custom style. The design will then be lost. Are you sure you want to continue?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -1665,10 +1665,10 @@ hr:
     blocks:
       community: "OpenProject Zajednica"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "Više informacija"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Migrating your installation to PostgreSQL"
       user_guides: "Korisnički priručnici"
       faq: "Često postavljana pitanja"

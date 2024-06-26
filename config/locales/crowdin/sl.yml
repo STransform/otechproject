@@ -61,7 +61,7 @@ sl:
         main-menu-bg-color: "Barva ozadja levega menija."
       theme_warning: "Sprememba teme bo nadomestilo vaš slog po meri. Oblikovanje bo tako izgubljeno. Ali ste prepričani, da bi radi nadaljevali?\n"
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -1695,10 +1695,10 @@ sl:
     blocks:
       community: "Skupnost OpenProject"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "Več informacij"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Selitev namestitve na PostgreSQL"
       user_guides: "Uporabniški priročniki"
       faq: "FAQ"

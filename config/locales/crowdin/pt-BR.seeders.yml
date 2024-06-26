@@ -169,7 +169,7 @@ pt-BR:
             item_2:
               name: Tarefas
             item_3:
-              name: Planejador de equipe
+              #name: Planejador de equipe
           boards:
             kanban:
               name: Painel Kanban

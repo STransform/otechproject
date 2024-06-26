@@ -2206,7 +2206,7 @@ ko:
   label_system_storage: "저장 공간 정보"
   label_table_of_contents: "목차"
   label_tag: "태그"
-  label_team_planner: "팀 플래너"
+ # label_team_planner: "팀 플래너"
   label_text: "긴 텍스트"
   label_this_month: "이번 달"
   label_this_week: "이번 주"

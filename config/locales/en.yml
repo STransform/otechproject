@@ -70,7 +70,7 @@ en:
         main-menu-bg-color: "Left side menu's background color."
       theme_warning: Changing the theme will overwrite you custom style. The design will then be lost. Are you sure you want to continue?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -81,8 +81,8 @@ en:
       required_for_feature: "This add-on is only available with an active Enterprise edition support token."
       enterprise_link: "For more information, click here."
       start_trial: "Start free trial"
-      book_now: "Book now"
-      get_quote: "Get a quote"
+      book_now: "Contact us"
+      get_quote: "#"
       buttons:
         upgrade: "Upgrade now"
         contact: "Contact us for a demo"
@@ -1734,18 +1734,18 @@ Project attributes and sections are defined in the <a href=%{admin_settings_url}
       no_visible_projects: "There are no visible projects in this instance."
       users: "Newest registered users in this instance."
     blocks:
-      community: "OpenProject community"
+      community: "OTECH Engineering customer"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "More information"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Migrating your installation to PostgreSQL"
-      user_guides: "User guides"
+      user_guides: "Customer 1"
       faq: "FAQ"
       impressum: "Legal notice"
       glossary: "Glossary"
-      shortcuts: "Shortcuts"
+      shortcuts: "Customer 2"
       blog: "OpenProject blog"
       forums: "Community forum"
       newsletter: "Security alerts / Newsletter"
@@ -2038,7 +2038,7 @@ Project attributes and sections are defined in the <a href=%{admin_settings_url}
   label_enumerations: "Enumerations"
   label_enterprise: "Enterprise"
   label_enterprise_active_users: "%{current}/%{limit} booked active users"
-  label_enterprise_edition: "Enterprise edition"
+  label_enterprise_edition: "OTECH Engineering"
   label_enterprise_support: "Enterprise support"
   label_enterprise_addon: "Enterprise add-on"
   label_environment: "Environment"

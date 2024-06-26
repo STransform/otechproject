@@ -96,7 +96,7 @@ RSpec.describe API::V3::Views::ViewsAPI,
       end
     end
 
-    context "with a user not allowed to manage team planners" do
+    context "with a user not allowed to manage OTECH Designer" do
       let(:additional_setup) do
         role.update_attribute(:permissions,
                               %w[view_work_packages

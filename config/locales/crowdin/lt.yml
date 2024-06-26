@@ -1693,7 +1693,7 @@ lt:
       no_visible_projects: "Šiame egzemplioriuje nėra matomų projektų."
       users: "Naujausi registruoti naudotojai."
     blocks:
-      community: "OpenProject community"
+      community: "OTECH Engineering customer"
       upsale:
         title: "Pagerinti į Enterprise versiją"
         more_info: "Daugiau informacijos"

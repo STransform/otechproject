@@ -169,7 +169,7 @@ ja:
             item_2:
               name: Tasks
             item_3:
-              name: チーム プランナー
+              #name: チーム プランナー
           boards:
             kanban:
               name: Kanban board

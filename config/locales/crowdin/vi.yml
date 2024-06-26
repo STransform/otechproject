@@ -61,7 +61,7 @@ vi:
         main-menu-bg-color: "Màu nền của trình đơn ở bên trái."
       theme_warning: Thay đổi chủ đề sẽ ghi đè phong cách tùy chỉnh của bạn. Thiết kế sau đó sẽ bị mất. Bạn có chắc chắn muốn tiếp tục không?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -1601,16 +1601,16 @@ vi:
     blocks:
       community: "Cộng đồng OpenProject"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "More information"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Migrating your installation to PostgreSQL"
-      user_guides: "User guides"
+      user_guides: "Customer 1"
       faq: "FAQ"
       impressum: "Thông báo pháp lý"
       glossary: "Glossary"
-      shortcuts: "Shortcuts"
+      shortcuts: "Customer 2"
       blog: "OpenProject blog"
       forums: "Diễn đàn cộng đồng"
       newsletter: "Security alerts / Newsletter"

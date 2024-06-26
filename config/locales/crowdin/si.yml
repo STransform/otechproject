@@ -61,7 +61,7 @@ si:
         main-menu-bg-color: "වම් පැත්තේ මෙනුවේ පසුබිම් වර්ණය."
       theme_warning: තේමාව වෙනස් කිරීම ඔබට අභිරුචි විලාසිතාව උඩින් ලියනු ඇත. එවිට සැලසුම අහිමි වනු ඇත. ඔබට දිගටම කරගෙන යාමට අවශ්ය බව ඔබට විශ්වාසද?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"

@@ -169,7 +169,7 @@ ko:
             item_2:
               name: 작업
             item_3:
-              name: 팀 플래너
+              #name: 팀 플래너
           boards:
             kanban:
               name: Kanban 보드

@@ -61,7 +61,7 @@ nl:
         main-menu-bg-color: "De kleur van de achtergrond van de linkerzijde menu's."
       theme_warning: Als u het thema wijzigt, wordt uw aangepaste stijl overschreven. Het ontwerp gaat dan verloren. Weet je zeker dat je door wilt gaan?
     enterprise:
-      upgrade_to_ee: "Upgrade to the Enterprise edition"
+      upgrade_to_ee: "OTECH P Management"
       add_token: "Upload an Enterprise edition support token"
       delete_token_modal:
         text: "Are you sure you want to remove the current Enterprise edition token used?"
@@ -1629,10 +1629,10 @@ nl:
     blocks:
       community: "OpenProject gemeenschap"
       upsale:
-        title: "Upgrade to Enterprise edition"
+        title: "Upgrade OTECH P-Management"
         more_info: "Meer informatie"
     links:
-      upgrade_enterprise_edition: "Upgrade to Enterprise edition"
+      upgrade_enterprise_edition: "Upgrade OTECH P-Management"
       postgres_migration: "Uw installatie overzetten naar PostgreSQL"
       user_guides: "Gebruikershandleidingen"
       faq: "Veelgestelde vragen (FAQ)"

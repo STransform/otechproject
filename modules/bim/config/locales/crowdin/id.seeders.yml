@@ -107,7 +107,7 @@ id:
             item_2:
               name: Tasks
             item_3:
-              name: Rencana tim
+              #name: Rencana tim
           boards:
             bcf:
               name: Simple drag'n drop workflow
@@ -169,7 +169,7 @@ id:
             item_2:
               name: Tasks
             item_3:
-              name: Rencana tim
+              #name: Rencana tim
           project-overview:
             widgets:
               item_0:
@@ -423,7 +423,7 @@ id:
             item_2:
               name: Tasks
             item_3:
-              name: Rencana tim
+             # name: Rencana tim
           project-overview:
             widgets:
               item_0:
@@ -696,7 +696,7 @@ id:
             item_6:
               name: Tasks
             item_7:
-              name: Rencana tim
+              #name: Rencana tim
           boards:
             bcf:
               name: BCF issues

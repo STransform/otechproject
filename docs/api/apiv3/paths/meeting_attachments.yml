@@ -21,7 +21,7 @@ get:
                   - _links:
                       author:
                         href: "/api/v3/users/1"
-                        title: OpenProject Admin
+                        title: OTECHProject Admin
                       container:
                         href: "/api/v3/meetings/72"
                         title: meeting
@@ -106,7 +106,7 @@ post:
                         title: Set lock on admin
                       self:
                         href: "/api/v3/users/1"
-                        title: OpenProject Admin
+                        title: OTECHProject Admin
                       showUser:
                         href: "/users/1"
                         type: text/html
@@ -124,7 +124,7 @@ post:
                     identityUrl:
                     lastName: Admin
                     login: admin
-                    name: OpenProject Admin
+                    name: OTECHProject Admin
                     status: active
                     updatedAt: '2018-05-29T13:57:44.662Z'
                   container:
@@ -145,7 +145,7 @@ post:
                 _links:
                   author:
                     href: "/api/v3/users/1"
-                    title: OpenProject Admin
+                    title: OTECHProject Admin
                   container:
                     href: "/api/v3/meetings/72"
                     title: meeting

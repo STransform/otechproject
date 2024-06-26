@@ -169,7 +169,7 @@ id:
             item_2:
               name: Tasks
             item_3:
-              name: Rencana tim
+              $name: Rencana tim
           boards:
             kanban:
               name: Kanban board

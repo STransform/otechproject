@@ -1627,7 +1627,7 @@ es:
       no_visible_projects: "No hay ningún proyecto visible en esta instancia."
       users: "Usuarios registrados mas recientes en esta instancia."
     blocks:
-      community: "OpenProject Community"
+      community: "OTECH Engineering customer"
       upsale:
         title: "Actualizar a Enterprise"
         more_info: "Más información"

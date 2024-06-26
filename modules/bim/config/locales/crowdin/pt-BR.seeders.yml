@@ -107,7 +107,7 @@ pt-BR:
             item_2:
               name: Tarefas
             item_3:
-              name: Planejador de equipe
+              #name: Planejador de equipe
           boards:
             bcf:
               name: Fluxo de trabalho simples de soltar arrastar
@@ -169,7 +169,7 @@ pt-BR:
             item_2:
               name: Tarefas
             item_3:
-              name: Planejador de equipe
+              #name: Planejador de equipe
           project-overview:
             widgets:
               item_0:
@@ -423,7 +423,7 @@ pt-BR:
             item_2:
               name: Tarefas
             item_3:
-              name: Planejador de equipe
+             # name: Planejador de equipe
           project-overview:
             widgets:
               item_0:
@@ -696,7 +696,7 @@ pt-BR:
             item_6:
               name: Tarefas
             item_7:
-              name: Planejador de equipe
+             # name: Planejador de equipe
           boards:
             bcf:
               name: Problemas de BCF
